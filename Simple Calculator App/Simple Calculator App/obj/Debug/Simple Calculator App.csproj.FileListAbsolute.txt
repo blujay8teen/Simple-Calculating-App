@@ -1,0 +1,40 @@
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.exe.config
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.exe
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.pdb
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.AssemblyReference.cache
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\obj\Debug\Simple_Calculator_App.Calculator.resources
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\obj\Debug\Simple_Calculator_App.Properties.Resources.resources
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.GenerateResource.cache
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.CoreCompileInputs.cache
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.exe
+C:\Users\bradl\source\repos\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.pdb
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.exe.config
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.exe
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.pdb
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.AssemblyReference.cache
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\obj\Debug\Simple_Calculator_App.Calculator.resources
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\obj\Debug\Simple_Calculator_App.Properties.Resources.resources
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.GenerateResource.cache
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.CoreCompileInputs.cache
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.exe
+F:\Computing VS Projects\Assessment 1\Task 1\Calculator Program\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.pdb
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.AssemblyReference.cache
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple_Calculator_App.Calculator.resources
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple_Calculator_App.Properties.Resources.resources
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.GenerateResource.cache
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.CoreCompileInputs.cache
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.exe
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.pdb
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.exe.config
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.exe
+F:\Computing VS Projects\Assessment 1\Task 1\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.pdb
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.exe.config
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.exe
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\bin\Debug\Simple Calculator App.pdb
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.AssemblyReference.cache
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple_Calculator_App.Calculator.resources
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple_Calculator_App.Properties.Resources.resources
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.GenerateResource.cache
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.csproj.CoreCompileInputs.cache
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.exe
+F:\Computing VS Projects\ISE102_BradleyJay_A1\Task 1\Simple Calculator App\Simple Calculator App\obj\Debug\Simple Calculator App.pdb
